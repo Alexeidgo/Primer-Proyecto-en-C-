@@ -1,2 +1,3 @@
-# Primer-Proyecto-en-C-
-Desarrollo de un videojuego de plataforma indie en C#
+# Algunos videojuegos programados en C#
+##La historia de C#
+
