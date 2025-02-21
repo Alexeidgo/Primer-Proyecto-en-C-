@@ -31,7 +31,7 @@ C# es ampliamente utilizado en el desarrollo de videojuegos. Unity es uno de los
 
 Es importante mencionar todas las posibilidades que implica dominar C# como lenguaje de programación y a lo largo de esta lista explorar también el dominio de otros lenguajes para crear obras maestras en videojuegos como Gta V y Minecraft, o bien en un entorno empresarial proyectos que puedan resolver satisfactoriamente posibles problemas que requieran adapatación constante. Gracias por leer :+1:
 
-** Referencias.
+## Referencias.
 * ¿Qué lenguaje de programación usa GTA 5? (s. f.). [La PS4](https://www.laps4.com/preguntas-y-respuestas/que-lenguaje-de-programacion-usa-gta-5)
 * López, L. (2021, 25 agosto). Videojuegos populares y el lenguaje en el que desarrollaron. [Berlitz](https://www.berlitz.com/es-mx/blog/videojuegos-populares-y-el-lenguaje-en-el-que-desarrollaron)
 * Lauracaballero, & Lauracaballero. (2023, 27 noviembre). Lenguajes de programación: C#. [Add You](https://addyou.es/lenguajes-de-programacion-c/#:~:text=Su%20historia%20comienza%20a%20finales,simplicidad%20de%20lenguajes%20como%20Java.)
