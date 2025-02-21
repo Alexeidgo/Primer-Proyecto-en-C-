@@ -27,7 +27,9 @@ C# es ampliamente utilizado en el desarrollo de videojuegos. Unity es uno de los
 > Este juego era mi obsesión de más pequeño, pero yo era malísimo, debo admitir que gasté dinero jugandolo, pero bueno, decisiones financieras que me hicieron feliz.
 * **Minecraft:** Finalizando este listado de juegos tenemos quizas al juego más grande de todos los tiempos y a su vez el más vendido, ya que puede jugarse desde consolas como xbox, Nintendo Switch, PS4 y dispositivos móviles en celulares o tabletas Android y iOS. En un principio fue creado con Java, después continuó con C#.
 ![Desarrollado por Notch y después atribuido a la compañía Mojang, Minecraft es un título imperdible en tu vida.](https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a)
-Es importante mencionar todas las posibilades que implica dominar C# como lenguaje de programación y a lo largo de esta lista explorar también el dominio de otros lenguajes para crear obras maestras en videojuegos como Gta V y Minecraft, o bien en un entorno empresarial proyectos que puedan resolver satisfactoriamente posibles problemas que requieran adapatación constante. Gracias por leer :+1:
+> Hubo rumores acerca de una secuela, pero en mi opinión Minecraft es único en su estilo y no necesita una secuela.
+
+Es importante mencionar todas las posibilidades que implica dominar C# como lenguaje de programación y a lo largo de esta lista explorar también el dominio de otros lenguajes para crear obras maestras en videojuegos como Gta V y Minecraft, o bien en un entorno empresarial proyectos que puedan resolver satisfactoriamente posibles problemas que requieran adapatación constante. Gracias por leer :+1:
 
 ** Referencias.
 * ¿Qué lenguaje de programación usa GTA 5? (s. f.). [La PS4](https://www.laps4.com/preguntas-y-respuestas/que-lenguaje-de-programacion-usa-gta-5)
